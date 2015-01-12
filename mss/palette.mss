@@ -38,7 +38,7 @@ Map { font-directory: url(./fonts); }
 /* ================================================================== */
 
 @land:              #E6F0E2;
-@water:             #98B3D2;
+@water:             #72A9E9;
 @grass:             #E6F0E2;
 @beach:             #FFEEC7;
 @park:              #E6F0E2;
