@@ -204,6 +204,7 @@ come in as well.
     line-color: @secondary_fill;
     [tunnel=1] { line-color: lighten(@secondary_fill, 10%); }
   }
+
   [stylegroup='railway'] {
     line-color: @rail_line;
     line-dasharray: 1,1;
@@ -214,6 +215,10 @@ come in as well.
   [stylegroup='service'],
   [stylegroup='minorroad'] {
     line-width: 0;
+  }
+  [stylegroup='other'] {
+    line-width: 0;
+    line-color: transparent;
   }
   [stylegroup='service'],
   [stylegroup='minorroad'],
