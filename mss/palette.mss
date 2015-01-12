@@ -86,7 +86,7 @@ Map { font-directory: url(./fonts); }
 @secondary_case:    @secondary_line * 0.9;
 
 @standard_line:     @land * 0.85;
-@standard_fill:     #EEEEEE;
+@standard_fill:     #656565;
 @standard_case:     @land * 0.9;
 
 @pedestrian_line:   @standard_line;

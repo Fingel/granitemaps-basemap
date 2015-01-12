@@ -51,7 +51,7 @@ stop(1000,white);
   	[zoom >=13] {
       line-smooth:1.0;
       line-width:0.75;
-      line-color:hsla(100,30%,50%,40%);
+      line-color:hsla(100,30%,50%,80%);
     	[elev > 0] {
 		text-face-name:@sans;
         text-size:8;
